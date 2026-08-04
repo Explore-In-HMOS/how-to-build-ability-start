@@ -1,0 +1,64 @@
+{
+  "float": [
+    {
+      "name": "page_padding",
+      "value": "20vp"
+    },
+    {
+      "name": "page_title_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "section_title_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "section_spacing",
+      "value": "3vp"
+    },
+    {
+      "name": "trigger_title_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "trigger_subtitle_font_size",
+      "value": "8fp"
+    },
+    {
+      "name": "trigger_item_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "trigger_item_corner_radius",
+      "value": "10vp"
+    },
+    {
+      "name": "setting_label_font_size",
+      "value": "9fp"
+    },
+    {
+      "name": "setting_row_padding",
+      "value": "3vp"
+    },
+    {
+      "name": "status_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "detail_label_font_size",
+      "value": "7fp"
+    },
+    {
+      "name": "detail_value_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "detail_row_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "loading_indicator_size",
+      "value": "16vp"
+    }
+  ]
+}

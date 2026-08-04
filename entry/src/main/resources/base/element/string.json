@@ -1,0 +1,174 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Notification deep link router codelab"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Resolves mock notification taps and a universal link to the right target ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Deep Link Router"
+    },
+    {
+      "name": "MockHealthAbility_desc",
+      "value": "Mock Health target ability opened by the Health Notification route"
+    },
+    {
+      "name": "MockHealthAbility_label",
+      "value": "Mock Health"
+    },
+    {
+      "name": "MockMessagingAbility_desc",
+      "value": "Mock Messaging target ability opened by the Message Notification route"
+    },
+    {
+      "name": "MockMessagingAbility_label",
+      "value": "Mock Messaging"
+    },
+    {
+      "name": "permission_activity_motion_reason",
+      "value": "Needed before opening the mock Health notification route"
+    },
+
+    {
+      "name": "route_trigger_page_title",
+      "value": "Notification Router"
+    },
+    {
+      "name": "trigger_health_title",
+      "value": "Health Notification"
+    },
+    {
+      "name": "trigger_health_subtitle",
+      "value": "Opens Health at Today's Summary"
+    },
+    {
+      "name": "trigger_message_title",
+      "value": "Message Notification"
+    },
+    {
+      "name": "trigger_message_subtitle",
+      "value": "Opens Messaging, waits for a reply"
+    },
+    {
+      "name": "trigger_link_title",
+      "value": "Custom Universal Link"
+    },
+    {
+      "name": "trigger_link_subtitle",
+      "value": "Opens example.com/watch/promo"
+    },
+
+    {
+      "name": "settings_section_title",
+      "value": "Launch Settings"
+    },
+    {
+      "name": "setting_with_animation",
+      "value": "With animation"
+    },
+    {
+      "name": "setting_fullscreen_window",
+      "value": "Fullscreen window mode"
+    },
+    {
+      "name": "setting_app_linking_only",
+      "value": "App Linking only"
+    },
+    {
+      "name": "setting_hide_failure_dialog",
+      "value": "Hide failure dialog"
+    },
+
+    {
+      "name": "route_result_page_title",
+      "value": "Route Result"
+    },
+    {
+      "name": "route_result_unknown_trigger",
+      "value": "Unknown trigger"
+    },
+    {
+      "name": "result_trigger_label",
+      "value": "Trigger"
+    },
+    {
+      "name": "result_start_options_label",
+      "value": "StartOptions used"
+    },
+    {
+      "name": "result_completion_label",
+      "value": "Completion handler"
+    },
+    {
+      "name": "result_ability_result_label",
+      "value": "AbilityResult"
+    },
+    {
+      "name": "result_message_label",
+      "value": "Message"
+    },
+    {
+      "name": "result_back_button",
+      "value": "Back"
+    },
+    {
+      "name": "result_retry_button",
+      "value": "Retry"
+    },
+
+    {
+      "name": "status_success",
+      "value": "Route Success"
+    },
+    {
+      "name": "status_fallback_browser",
+      "value": "Route Fallback (Browser)"
+    },
+    {
+      "name": "status_failed",
+      "value": "Route Failed"
+    },
+    {
+      "name": "status_permission_denied",
+      "value": "Permission Denied"
+    },
+
+    {
+      "name": "mock_health_title",
+      "value": "Mock Health"
+    },
+    {
+      "name": "mock_health_page_label",
+      "value": "Opened page: %s"
+    },
+    {
+      "name": "mock_health_source_label",
+      "value": "Source: %s"
+    },
+    {
+      "name": "mock_health_hint",
+      "value": "Mock target ability - no real Health Kit data"
+    },
+
+    {
+      "name": "mock_messaging_title",
+      "value": "Mock Messaging"
+    },
+    {
+      "name": "mock_messaging_sender_label",
+      "value": "Conversation with %s"
+    },
+    {
+      "name": "mock_messaging_reply_button",
+      "value": "Reply \"On my way!\""
+    },
+    {
+      "name": "mock_messaging_ignore_button",
+      "value": "Ignore"
+    }
+  ]
+}

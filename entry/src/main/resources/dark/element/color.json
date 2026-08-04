@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "page_background",
+      "value": "#000000"
+    },
+    {
+      "name": "trigger_item_background",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "primary_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "subtitle_text",
+      "value": "#9A9A9E"
+    },
+    {
+      "name": "primary_button_background",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "primary_button_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "secondary_button_background",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "secondary_button_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "status_success",
+      "value": "#4CD787"
+    },
+    {
+      "name": "status_fallback",
+      "value": "#F0B255"
+    },
+    {
+      "name": "status_failed",
+      "value": "#FF6B52"
+    }
+  ]
+}
